@@ -1,6 +1,10 @@
 # 💫 About Pooya:
 An Iranian Python developer💻<br><br>with a creative mind and ready to code Python🐍
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PooyaValizadeh/PooyaValizadeh/output/snake.svg" />
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realdtpooya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pooyav90@gmail.com) 
@@ -18,9 +22,7 @@ An Iranian Python developer💻<br><br>with a creative mind and ready to code Py
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/www.coffeebede.com/pooyavalizadeh) 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PooyaValizadeh/PooyaValizadeh/output/snake.svg" />
-</p>
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
