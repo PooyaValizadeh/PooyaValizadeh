@@ -1,23 +1,76 @@
-# 💫 About Pooya:
-An Iranian Python developer💻<br><br>with a creative mind and ready to code Python🐍
+# Hi there, I'm Pooya. 👋
 
+I'm currently a Computer Science postgraduate student at Fudan University, dedicated to crafting elegant solutions in both frontend and backend development. 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realdtpooya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pooyav90@gmail.com)
+<table width="100%" style="border: none;">
+<tr>
+<td align="left" valign="top" width="50%" style="border: none;">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
+<h3>About Me</h3>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PooyaValizadeh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PooyaValizadeh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PooyaValizadeh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🛠️ Full-stack Developer with Cloud Experience
+- 💻 Go Developer & Vim Power User & Rust Learner
+- 🔧 Custom PC Building Enthusiast
+- 🍎 Hackintosh User
+- 🎵 Sports & Music Enthusiast
+- ✨ Clean Code & Tidy Space Advocate
+- 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PooyaValizadeh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</td>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/www.coffeebede.com/pooyavalizadeh)
+<td width="50%" valign="top" style="border: none;">
+<h3>GitHub Stats</h3>
+<div align="center">
+  <div class="stats-container" align="center">
+    <picture>
+      <source
+        srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img 
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false" 
+        alt="Pray's GitHub Stats" 
+        width="495"
+        height="195"
+        loading="lazy"
+      />
+    </picture>
+  </div>
+</div>
+</td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="left">🚀 Skills</h2>
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<h2 align="left">📈 Contribution Stats</h2>
+
+### GitHub & Gitee Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
+</picture>
+
+Check out [my project](https://github.com/Zqzqsb/MultiSourceSnake) to generate your own contribution snake animation combining both GitHub and Gitee activities.
+
+<h2 align="left">📝 Blog</h2>
+
+Visit my blog for articles and tutorials:
+
+- [ZQ` Blog](https://blog.zqzqsb.cn)
