@@ -1,76 +1,25 @@
-# Hi there, I'm Pooya. 👋
+# 💫 Hey there:
+🔭 I’m currently working on Data science<br>🌱 I’m currently learning ML<br>
 
-I'm currently a Computer Science postgraduate student at Fudan University, dedicated to crafting elegant solutions in both frontend and backend development. 
 
-<table width="100%" style="border: none;">
-<tr>
-<td align="left" valign="top" width="50%" style="border: none;">
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valizadehpa@gmail.com) 
 
-<h3>About Me</h3>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PooyaValizadeh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=PooyaValizadeh&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PooyaValizadeh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🛠️ Full-stack Developer with Cloud Experience
-- 💻 Go Developer & Vim Power User & Rust Learner
-- 🔧 Custom PC Building Enthusiast
-- 🍎 Hackintosh User
-- 🎵 Sports & Music Enthusiast
-- ✨ Clean Code & Tidy Space Advocate
-- 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PooyaValizadeh&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
 
-</td>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PooyaValizadeh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
-<td width="50%" valign="top" style="border: none;">
-<h3>GitHub Stats</h3>
-<div align="center">
-  <div class="stats-container" align="center">
-    <picture>
-      <source
-        srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img 
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false" 
-        alt="Pray's GitHub Stats" 
-        width="495"
-        height="195"
-        loading="lazy"
-      />
-    </picture>
-  </div>
-</div>
-</td>
-</tr>
-</table>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/www.coffeebede.com/PooyaValizadeh) 
 
-<h2 align="left">🚀 Skills</h2>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<h2 align="left">📈 Contribution Stats</h2>
-
-### GitHub & Gitee Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
-</picture>
-
-Check out [my project](https://github.com/Zqzqsb/MultiSourceSnake) to generate your own contribution snake animation combining both GitHub and Gitee activities.
-
-<h2 align="left">📝 Blog</h2>
-
-Visit my blog for articles and tutorials:
-
-- [ZQ` Blog](https://blog.zqzqsb.cn)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
