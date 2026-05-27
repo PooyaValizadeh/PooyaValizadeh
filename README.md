@@ -1,9 +1,26 @@
 # 💫 About Pooya:
 An Iranian Python developer💻<br><br>with a creative mind and ready to code Python🐍
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PooyaValizadeh/PooyaValizadeh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:           A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake:       Color of the snake
+    #  - color_dots:        Coma separated list of dots color.
+    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                       Exactly 5 colors are expected.
+    #  - color_background:  Color of the background (for gif only)
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realdtpooya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pooyav90@gmail.com)
