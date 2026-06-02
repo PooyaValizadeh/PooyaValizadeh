@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/ezgif-4006c7ff147d7d9c.gif"  />
+  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/IMG_20260602_113925.jpg"  />
 </div>
 
 ###
