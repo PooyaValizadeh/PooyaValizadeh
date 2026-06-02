@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/IMG_20260602_113925.jpg"  />
+  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/IMG_20260602_113925 (1).jpg"  />
 </div>
 
 ###
@@ -26,6 +26,7 @@
 ###
 
 <p align="left">I'm Pooya from Iran<br><br>- 🔭 I’m working as data scientist<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I sleep</p>
+
 
 ###
 
@@ -70,6 +71,12 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PooyaValizadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
+### 
+
+ <div align="center">
+  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/atbdd2.gif"  />
+</div>
+
 ###
 
 <h3 align="left">GitHub Activity 📈:</h3>
@@ -88,4 +95,3 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
