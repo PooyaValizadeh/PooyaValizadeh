@@ -9,23 +9,16 @@
 ###
 
  <div align="center">
-  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/atbdd2.gif"  />
+  <img height="100000" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/profile.png"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+<h2 align="left"></h2>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<p align="left">I'm Pooya from Iran<br><br>- 🔭 I’m working as data scientist<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I sleep</p>
+<p align="left">Dedicated Data Scientist with a strong foundation in Python and extensive experience in Machine Learning. Proven track record of developing diverse data-driven solutions, ranging from small-scale analytical tools to complex machine learning models. Demonstrated expertise in API development and bot architecture through key contributions to the APIBOT project (notably the Bashar Bot). Passionate about transforming raw data into actionable insights.</p>
 
 
 ###
@@ -67,9 +60,6 @@
 ###
 
 ![](https://github-readme-stats.shion.dev/api?username=PooyaValizadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PooyaValizadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
 ###
 
