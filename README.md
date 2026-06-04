@@ -8,8 +8,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/IMG_20260602_113925 (1).jpg"  />
+ <div align="center">
+  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/atbdd2.gif"  />
 </div>
 
 ###
@@ -67,14 +67,8 @@
 ###
 
 ![](https://github-readme-stats.shion.dev/api?username=PooyaValizadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PooyaValizadeh&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PooyaValizadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
-
-### 
-
- <div align="center">
-  <img height="200" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/atbdd2.gif"  />
 </div>
 
 ###
