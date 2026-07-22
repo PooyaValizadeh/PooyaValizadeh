@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">Language and tools</h2>
 
 ###
 
@@ -43,14 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-![](https://github-readme-stats.shion.dev/api?username=PooyaValizadeh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ###
 
