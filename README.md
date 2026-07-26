@@ -1,6 +1,45 @@
+<div align="center">
 
- <div align="center">
-  <img height="100000" src="https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/profile.png"  />
+# Pooya Valizadeh
+
+### DEDICATED DATA SCIENTIST
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### | CORE COMPETENCIES
+
+- Python  
+- Machine Learning  
+- Deep Learning  
+- Data Science & Analytics  
+- Neural Networks & Model Development  
+- Transforming Raw Data → Actionable Insights  
+
+</td>
+<td width="50%" valign="top">
+
+### | ADDITIONAL EXPERTISE
+
+- Recommender Systems  
+- Computer Vision  
+- Natural Language Processing (NLP)  
+- Time Series Forecasting  
+- Big Data Technologies (Spark, Hadoop)  
+- Model Deployment & MLOps  
+- Generative AI & LLMs  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+📧 **valizadehpa@gmail.com**
+
 </div>
 
 ###
