@@ -2,7 +2,7 @@
 
 # Pooya Valizadeh
 
-### DEDICATED DATA SCIENTIST
+#### DEDICATED DATA SCIENTIST
 
 <br>
 
@@ -38,8 +38,9 @@
 
 <br>
 
-📧 **valizadehpa@gmail.com**
-
+**valizadehpa@gmail.com**
+<br>
+<span style="color:#555;">✈</span> **[@Pooya_valizadeh](https://t.me/Pooya_valizadeh)**
 </div>
 
 ###
