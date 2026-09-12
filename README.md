@@ -2,7 +2,7 @@
 
 # Pooya Valizadeh
 
-#### DEDICATED DATA SCIENTIST
+#### DATA SCIENTIST
 
 <br>
 
@@ -12,12 +12,10 @@
 
 ### | CORE COMPETENCIES
 
-- Python  
 - Machine Learning  
 - Deep Learning  
 - Data Science & Analytics  
 - Neural Networks & Model Development  
-- Transforming Raw Data → Actionable Insights  
 
 </td>
 <td width="50%" valign="top">
@@ -30,7 +28,6 @@
 - Time Series Forecasting  
 - Big Data Technologies (Spark, Hadoop)  
 - Model Deployment & MLOps  
-- Generative AI & LLMs  
 
 </td>
 </tr>
@@ -97,3 +94,5 @@
 </picture>
 
 ###
+
+<a href="https://parscoders.com/?ref=646814"><img src="https://parscoders.com/banner/468x60-2.gif" alt="پارس‌کدرز اولین بازار کار آنلاین ایران" title="پارس‌کدرز اولین بازار کار آنلاین ایران"></a>
