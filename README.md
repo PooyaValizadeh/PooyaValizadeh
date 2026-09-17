@@ -95,4 +95,3 @@
 
 ###
 
-<a href="https://parscoders.com/?ref=646814"><img src="https://parscoders.com/banner/468x60-2.gif" alt="پارس‌کدرز اولین بازار کار آنلاین ایران" title="پارس‌کدرز اولین بازار کار آنلاین ایران"></a>
