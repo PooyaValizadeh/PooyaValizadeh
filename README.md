@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pooya Valizadeh | پویا ولی زاده
-#### DATA SCIENTIST
+#### STUDENT
 
 <br>
 
@@ -20,12 +20,8 @@
 <td width="50%" valign="top">
 
 ### | ADDITIONAL EXPERTISE
-
-- Recommender Systems  
+ 
 - Computer Vision  
-- Natural Language Processing (NLP)  
-- Time Series Forecasting  
-- Big Data Technologies (Spark, Hadoop)  
 - Model Deployment & MLOps  
 
 </td>
@@ -45,7 +41,7 @@
 
 ###
 
-<p align="left">Dedicated Data Scientist with a strong foundation in Python and extensive experience in Machine Learning. Proven track record of developing diverse data-driven solutions, ranging from small-scale analytical tools to complex machine learning models. Passionate about transforming raw data into actionable insights.</p>
+<p align="left">Dedicated Data Scientist with a strong foundation in Python and extensive experience in Machine Learning. Proven track record of developing diverse data-driven solutions, ranging from small-scale analytical tools to complex machine learning models.</p>
 
 
 ###
