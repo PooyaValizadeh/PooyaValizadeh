@@ -13,7 +13,6 @@
 
 - Machine Learning  
 - Deep Learning  
-- Data Science & Analytics  
 - Neural Networks & Model Development  
 
 </td>
@@ -22,7 +21,7 @@
 ### | ADDITIONAL EXPERTISE
  
 - Computer Vision  
-- Model Deployment & MLOps  
+- Model Deployment
 
 </td>
 </tr>
@@ -41,7 +40,7 @@
 
 ###
 
-<p align="left">Dedicated Data Scientist with a strong foundation in Python and extensive experience in Machine Learning. Proven track record of developing diverse data-driven solutions, ranging from small-scale analytical tools to complex machine learning models.</p>
+<p align="left">Data Scientist with a strong foundation in Python and extensive experience in Machine Learning. Proven track record of developing diverse data-driven solutions, ranging from small-scale analytical tools to complex machine learning models.</p>
 
 
 ###
