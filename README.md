@@ -20,7 +20,6 @@
 
 ### | ADDITIONAL EXPERTISE
  
-- Computer Vision  
 - Model Deployment
 
 </td>
