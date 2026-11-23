@@ -1,15 +1,14 @@
 <div align="center">
 
-# Pooya Valizadeh | پویا ولی زاده
-#### STUDENT
-
+## Pooya Valizadeh | پویا ولی زاده
+###### student
 <br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### | CORE COMPETENCIES
+#### | CORE COMPETENCIES
 
 - Machine Learning  
 - Deep Learning  
@@ -18,7 +17,7 @@
 </td>
 <td width="50%" valign="top">
 
-### | ADDITIONAL EXPERTISE
+#### | ADDITIONAL EXPERTISE
  
 - Model Deployment
 
@@ -44,7 +43,7 @@
 ###
 ###
 
-<h3 align="left">GitHub Activity :</h3>
+<h4 align="left">GitHub Activity :</h3>
 
 ###
 
