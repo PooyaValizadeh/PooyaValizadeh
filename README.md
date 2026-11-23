@@ -39,8 +39,7 @@
 
 ###
 
-<p align="left">Data Scientist with a strong foundation in Python and extensive experience in Machine Learning. Proven track record of developing diverse data-driven solutions, ranging from small-scale analytical tools to complex machine learning models.</p>
-
+<p align="left">Data Scientist with a strong foundation in Python and extensive experience in Machine Learning.</p>
 
 ###
 ###
